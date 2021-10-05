@@ -59,7 +59,7 @@ const Contact = () => {
               <Form.Check type="checkbox" label="Check me out" />
             </Form.Group>
 
-            <Button variant="primary" type="submit">
+            <Button className="btn" variant="dark" type="submit">
               Submit
             </Button>
           </Form>
