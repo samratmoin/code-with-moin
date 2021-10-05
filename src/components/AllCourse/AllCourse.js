@@ -3,7 +3,7 @@ import { Button, Card, Col, NavLink } from "react-bootstrap";
 import { useHistory } from "react-router";
 
 const AllCourse = (props) => {
-  const { id, img, title, category, details } = props.course;
+  const { id, img, title, category, details, price } = props.course;
   const history = useHistory();
 
   const handleClick = () => {
@@ -18,7 +18,7 @@ const AllCourse = (props) => {
             <Card.Title>{title}</Card.Title>
             <Card.Text>{category}</Card.Text>
             <Card.Text className="lead">{details.slice(0, 150)}</Card.Text>
-
+            <Card.Text> Price - ${price}</Card.Text>
             <Button variant="primary" onClick={handleClick}>
               Course Details
             </Button>

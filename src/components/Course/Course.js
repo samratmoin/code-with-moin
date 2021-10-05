@@ -3,7 +3,7 @@ import { Button, Card, Col } from "react-bootstrap";
 
 const course = (props) => {
   // console.log(props.course);
-  const { img, title, category } = props.course;
+  const { img, title, category, price } = props.course;
   return (
     <div>
       <Col>
@@ -12,6 +12,7 @@ const course = (props) => {
           <Card.Body>
             <Card.Title>{title}</Card.Title>
             <Card.Text>{category}</Card.Text>
+            <Card.Text> Price - ${price}</Card.Text>
             <Button variant="primary">Course Details</Button>
           </Card.Body>
         </Card>

@@ -4,6 +4,7 @@
     "title": "The Ultimate HTML/CSS Mastery Series",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/INZsH6XtRIqQqxvYGP6Q",
     "category": "front-end development",
+    "price": 300,
     "body": "Everything you need to build fast and beautiful websites with HTML5 and CSS3 in one bundle",
     "details": "A fun, comprehensive and beginner-friendly course that teaches you all the skills you need to build professional-quality websites with HTML5 and CSS3. Whether you’re an absolute beginner wanting to learn web development from scratch, or you know a bit of HTML5/CSS3 and need a refresher course to fill the gaps, this course will help you achieve your goals."
   },
@@ -12,6 +13,7 @@
     "title": "The Ultimate JavaScript Mastery Series",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/4JkBtVU9QUwcwFCWi3AV",
     "category": "both Front-end and Back-end development",
+    "price": 750,
     "body": "Master the Fundamentals of JavaScript - The Language Behind Millions of Websites & Apps",
     "details": "JavaScript is one of the most popular programming languages in the world. If you're looking for a career in web or mobile app development, you MUST know JavaScript well. It breaks down modern JavaScript into digestible and easy-to-understand pieces using real-world examples, exercises and step-by-step solutions. No foo-bar-baz nonsense or fluff here!"
   },
@@ -20,6 +22,7 @@
     "title": "Complete Python Mastery",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/BFMMlbcQvml9HSqXcvNp",
     "category": "Back-end development",
+    "price": 1000,
     "body": "Everything You Need to Program in Python in One Course",
     "details": "Python is the most popular programming language in the world. Python is used by big companies like Google, Facebook, Dropbox, Reddit, Spotify, Quora, etc.Mathematicians, scientists, engineers and developers love it because of its simple and elegant syntax.It's the #1 language for AI and machine learning, and the ideal language to learn for beginners. Much easier than C++ or JavaScript!"
   },
@@ -28,6 +31,7 @@
     "title": "The Ultimate Java Mastery Series",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/t12BZqmRoulvCTDhoYie",
     "category": "Back-end development",
+    "price": 1000,
     "body": "From Java zero to hero - Master the world's most popular coding language",
     "details": "Java is the most widely used and in-demand programming language. It's used in 90% of fortune 500 company websites, most big banks and financial companies, almost all Android apps, and much, much more...But despite its popularity, there’s lots of bad info out there about Java. Dozens of myths, misconceptions, bad advice and downright poor tutorials."
   },
@@ -36,6 +40,7 @@
     "title": "Mastering React",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/SVFQZQAyRpqJ31f6LNGe",
     "category": "Front-end development",
+    "price": 500,
     "body": "Understand React inside out and boost your career prospects",
     "details": "What else do you expect from a JavaScript library that was developed by Facebook? But seriously, if you don’t know how to build apps with React - then you’re falling behind the curve. It has quickly become the most popular JavaScript library since its release in 2011. Both new and seasoned developers are using it to build app front-ends that are fast, dynamic and stand out. If you want to see what React apps are like, just think of the big popular sites like Facebook, Instagram, Netflix, Yahoo, the list goes on…"
   },
@@ -44,6 +49,7 @@
     "title": "Mastering Vue",
     "img": "https://www.traversymedia.com/assets/images/yt-5.jpg",
     "category": "Front-end development",
+    "price": 500,
     "body": "Learn to build Vue apps like a pro",
     "details": "Vue is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries."
   },
@@ -52,6 +58,7 @@
     "title": "Mastering Svelte",
     "img": "https://www.freecodecamp.org/news/content/images/2019/10/Screen-Shot-2019-10-21-at-19.07.27.png",
     "category": "Front-end development",
+    "price": 500,
     "body": "Let’s face it – all the cool kids are using Svelte…",
     "details": "Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the browser, Svelte shifts that work into a compile step that happens when you build your app. Instead of using techniques like virtual DOM diffing, Svelte writes code that surgically updates the DOM when the state of your app changes. We're proud that Svelte was recently voted the  with the  in a pair of industry surveys. We think you'll love it too.  to learn more."
   },
@@ -60,6 +67,7 @@
     "title": "Mastering Angular Beginner to Pro",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/stccKo5kR5iZY7CtLFvi",
     "category": "Front-end development",
+    "price": 500,
     "body": "Build professional, interactive apps with Angular - the most popular framework for building web apps.",
     "details": "Angular is one of the most popular frameworks for building client apps with HTML, CSS and TypeScript. Put simply, Angular is a must-have on your resume. Lucky for you, this course is a full-on, deep-dive into Angular that will give you the competitive edge you’re looking for. Highly technical with a perfect mix of theory and practice. It covers absolutely every detail you could possibly need to take you from beginner Angular developer to expert ."
   },
@@ -68,6 +76,7 @@
     "title": "The Complete Node.js Course",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/nlMKa4JeSBysXoj7pa90",
     "category": "Back-end development",
+    "price": 1000,
     "body": "Learn to build highly-scalable, fast and secure RESTful APIs with Node, Express, and MongoDB.",
     "details": "Want to learn Node.js, but are tired of wordy and slow instructors who talk to you like you've never coded before? A perfect mix of theory and practice with no waffling. Learn to build RESTful APIs with Node, Express and MongoDB with confidence. Includes best practices that pros apply, as well as going over common mistakes that many Node.js developers make."
   },
@@ -77,6 +86,7 @@
     "title": "Master Django to Build Awesome Backends!",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/KHTdHnlEQsy8RfIAl4Mm",
     "category": "Back-end development",
+    "price": 1000,
     "body": "Master the Fundamentals of Web Development with Python and Django.",
     "details": "Have you always wanted to learn Web development with Python but didn't know where to start? Tired of lengthy, confusing, and outdated courses? Look no further. A comprehensive, highly-practical, and step-by-step course that teaches you everything you need to know about Django from scratch. Whether you’re an absolute beginner wanting to learn Django for the first time, or you know a bit of Django and need a refresher course to fill in the gaps, this course will help you achieve your goals."
   },
@@ -85,6 +95,7 @@
     "title": "The Ultimate C# Mastery Series",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Dk8I3q9CSNa8KkINL0yA",
     "category": "Back-end development",
+    "price": 1000,
     "body": "From C# zero to hero - Master one of the world's most versatile programming languages.",
     "details": "C# is one of the most versatile programming languages in the world. It's used to build websites, apps and games through the Unity game engine. But despite its popularity, there’s lots of bad info out there about C#. Dozens of myths, misconceptions, bad advice and downright poor tutorials."
   },
@@ -93,6 +104,7 @@
     "title": "Complete SQL Mastery",
     "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/RL4kFbu1SMiCIeLAtWX3",
     "category": "Back-end development",
+    "price": 300,
     "body": "Everything You Need to Design and Query Databases in One Course.",
     "details": "Big databases are everywhere these days. Facebook, Netflix, Uber, Airbnb use SQL-driven databases - to name just a few. So, to be a successful developer or data scientist you need to know SQL inside-out. SQL isn’t complicated - or at least it doesn’t need to be, so long as you learn it the right way. That’s why this course goes further than most. You’ll get in-depth knowledge and skills that are built-up sequentially to make sure you don’t have any gaps."
   }
