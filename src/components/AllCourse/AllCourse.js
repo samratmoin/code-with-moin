@@ -1,5 +1,5 @@
 // import React, { useState } from "react";
-import { Button, Card, Col, NavLink } from "react-bootstrap";
+import { Button, Card, Col } from "react-bootstrap";
 import { useHistory } from "react-router";
 
 const AllCourse = (props) => {
@@ -12,7 +12,7 @@ const AllCourse = (props) => {
   return (
     <div>
       <Col>
-        <Card style={{ width: "18rem" }}>
+        <Card style={{ width: "18rem", height: "600px" }}>
           <Card.Img variant="top" src={img} />
           <Card.Body>
             <Card.Title>{title}</Card.Title>

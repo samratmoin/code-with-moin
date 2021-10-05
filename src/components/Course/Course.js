@@ -7,7 +7,7 @@ const course = (props) => {
   return (
     <div>
       <Col>
-        <Card style={{ width: "18rem" }}>
+        <Card style={{ width: "18rem", height: "400px" }}>
           <Card.Img variant="top" src={img} />
           <Card.Body>
             <Card.Title>{title}</Card.Title>
